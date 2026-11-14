@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yoyo-modls.com/sitemap.xml
+Sitemap: https://yoyo-molds.com/sitemap.xml
